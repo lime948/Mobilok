@@ -1,0 +1,18 @@
+﻿iPhone 15;Apple;6,1;256;8;3279
+iPhone 15 Pro;Apple;6,1;512;8;3274
+iPhone 15 Plus;Apple;6,7;256;6;4383
+Galaxy S24;Samsung;6,2;256;12;4000
+Galaxy S24+;Samsung;6,7;512;12;4900
+Galaxy Z Flip 6;Samsung;6,7;256;8;4000
+Pixel 8;Google;6,2;128;8;4575
+Pixel 8 Pro;Google;6,7;256;12;5050
+Pixel Fold;Google;7,6;256;12;4821
+Nothing Phone 3a;Nothing;6,77;256;12;5000
+Nothing Phone 2;Nothing;6,7;256;12;4700
+Nothing Phone 1;Nothing;6,55;128;8;4500
+Redmi Note 13 Pro;Xiaomi;6,7;256;8;5100
+Xiaomi 14;Xiaomi;6,4;512;12;4610
+Poco F6 Pro;Xiaomi;6,67;512;16;5000
+OnePlus 12;OnePlus;6,8;512;16;5400
+OnePlus 12R;OnePlus;6,78;256;16;5500
+OnePlus Nord 3;OnePlus;6,74;256;16;5000
